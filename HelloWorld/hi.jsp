@@ -11,4 +11,6 @@ String message = "Hello, World.";
 <%= new java.util.Date() %>
 <img src="/assets/mi/system/images/twitter.png" alt="Alternate Text because image is missing" />
 </body> 
+
+
 </html> 
